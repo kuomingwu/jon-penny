@@ -103,6 +103,10 @@ class FightView extends Component{
 					<p>
 						<img src={Together}></img>
 					</p>
+					<p>
+						請繼續完成你的旅程
+						<span>git</span><a target="_blank" src="https://github.com/kuomingwu/jon-penny.git">https://github.com/kuomingwu/jon-penny.git</a>
+					</p>
 				</Modal>
 			
 			)
